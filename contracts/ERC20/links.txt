@@ -1,0 +1,5 @@
+https://github.com/ethereum/pm/blob/master/All%20Core%20Devs%20Meetings/Meeting%2016.md
+
+https://github.com/OpenZeppelin/zeppelin-solidity/blob/master/contracts/token/StandardToken.sol
+https://github.com/ConsenSys/Tokens/blob/master/Token_Contracts/contracts/StandardToken.sol
+https://github.com/Giveth/minime/blob/master/contracts/MiniMeToken.sol
