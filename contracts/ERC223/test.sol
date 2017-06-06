@@ -2,16 +2,12 @@ pragma solidity ^0.4.11;
 
 
 /*
+  Concrete token for unit-tests
   Author: Victor Mezrin  victor@mezrin.com
 */
 
 
-import './ERC223.sol';
-
-
-/*
-  Tokens for unit-tests
-*/
+import './implementation.sol';
 
 
 contract ERC223TestToken is ERC223Token {
